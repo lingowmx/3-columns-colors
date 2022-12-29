@@ -1,0 +1,44 @@
+.main-container{
+    display: flex;
+}
+.section-a{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 30px;
+    padding: 40px 0px;
+}
+.section-b{
+    padding: 40px 0px;
+}
+.section-c{
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 0px;
+    padding: 40px 0px;
+}
+.main-container{
+    height: 100vh;
+    padding: 80px;
+}
+.section-container{
+    padding: 50px 60px;
+}
+.image-container img{
+    width: 36%;
+}
+.title{
+    font-size: 48px;
+    margin-top: 60px;
+}
+.description{
+    font-size: 26px;
+    margin-top: 70px;
+    line-height: 1.5;
+}
+
+.learnmore-button{
+    width: 170px;
+    height: 60px;
+    font-size: 21px;
+    margin-top: 250px;
+}
